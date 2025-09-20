@@ -20,7 +20,7 @@ In this comprehensive Big Data project, we delve into the Flipkart Grocery trans
 ## How to Use
 - **Clone Repository:** Clone this repository to your local machine:
   ```bash
-  git clone https://github.com/your-/your-repository.git
+  git clone https://github.com/Sankalp026/Flipkart-Grocery-Data-Lake-Pipeline.git
 
 ## Deployment Steps
 Prerequisites:
