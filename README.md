@@ -12,9 +12,6 @@ In this comprehensive Big Data project, we delve into the Flipkart Grocery trans
 - **Kafka:** Implemented as a real-time streaming data source for up-to-the-minute insights.
 - **Tableau:** Visualized insights through an interactive dashboard, providing a user-friendly interface.
 
-## Data Pipeline Workflow
-#Add architecture
-
 ## Insights and Achievements
 - 🚀 **Best-Selling Items:** Identified top-performing products for strategic decision-making.
 - 💸 **Sales Patterns and Discount Effects:** Unveiled and measured the impact of discounts on sales, guiding pricing strategies.
@@ -23,7 +20,7 @@ In this comprehensive Big Data project, we delve into the Flipkart Grocery trans
 ## How to Use
 - **Clone Repository:** Clone this repository to your local machine:
   ```bash
-  git clone https://github.com/your-username/your-repository.git
+  git clone https://github.com/your-/your-repository.git
 
 ## Deployment Steps
 Prerequisites:
