@@ -20,7 +20,7 @@ RelationalDB_node1707473645992 = glueContext.create_dynamic_frame.from_options(
     connection_options={
         "useConnectionProperties": "true",
         "dbtable": "product",
-        "connectionName": "OMKAR's RDS",
+        "connectionName": "sankalp's RDS",
     },
     transformation_ctx="RelationalDB_node1707473645992",
     additional_options={"jobBookmarkKeys": ["indexing"], "jobBookmarkKeysSortOrder": "asc"}
