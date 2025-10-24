@@ -9,7 +9,6 @@ In this comprehensive Big Data project, we delve into the Flipkart Grocery trans
 - **AWS RDS:** Hosted a relational database for structured data, forming a robust foundation for analysis.
 - **AWS Athena:** Used for querying data directly in S3 using SQL, enabling quick and efficient analytics.
 - **GitHub Actions:** Automated the data pipeline process, ensuring a streamlined workflow with each repository update.
-- **Kafka:** Implemented as a real-time streaming data source for up-to-the-minute insights.
 - **Tableau:** Visualized insights through an interactive dashboard, providing a user-friendly interface.
 
 ## Insights and Achievements
